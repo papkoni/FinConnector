@@ -1,0 +1,14 @@
+/Users/nikitapapko/project/FinConnector/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/nikitapapko/project/FinConnector/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/nikitapapko/project/FinConnector/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/nikitapapko/project/FinConnector/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/nikitapapko/project/FinConnector/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/nikitapapko/project/FinConnector/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

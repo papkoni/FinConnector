@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCAUWNlUHac=",
+  "success": true,
+  "projectFilePath": "/Users/nikitapapko/project/FinConnector/FinConnector/FinConnector.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikitapapko/.nuget/packages/restsharp/112.1.0/restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
